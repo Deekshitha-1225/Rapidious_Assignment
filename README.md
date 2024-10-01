@@ -1,6 +1,6 @@
 # Rapidious_Assignment
 I completed my rapidious assignment using Flask, integrating a machine learning model with EDA insights. Thank you for the opportunity to enhance my skills!
-
+# you can watch here https://www.flexclip.com/share/69560876b38ad668051c11bf3671935d3c4d71d.html
 # The steps I Have followed
 Understand the Data: Explored the dataset to grasp its structure and features.
 Remove Duplicates: Eliminated any duplicate entries to ensure data integrity.
